@@ -50,31 +50,34 @@
     },
     "xmb10": {
       "version": "1.0.2",
-      "file_name": "downloads/mili.bin",
-      "versionCode": 102
+      "file_name": "downloads/doom_mili.bin",
+      "versionCode": 103
     },
     "xmb10nfc": {
       "version": "1.0.2",
-      "file_name": "downloads/mili.bin",
-      "versionCode": 102
+      "file_name": "downloads/doom_mili.bin",
+      "versionCode": 103
     },
     "xmb11": {
       "version": "1.0.2",
-      "file_name": "downloads/mili.bin",
-      "versionCode": 102
+      "file_name": "downloads/doom_mili.bin",
+      "versionCode": 103
     },
     "xmb11nfc": {
       "version": "1.0.2",
-      "file_name": "downloads/mili.bin",
-      "versionCode": 102
+      "file_name": "downloads/doom_mili.bin",
+      "versionCode": 103
     },
     "xmb9": {
       "version": "1.0.2",
-      "file_name": "downloads/mili.bin",
-      "versionCode": 102
+      "file_name": "downloads/doom_mili.bin",
+      "versionCode": 103
     }
   },
   "ext": {
-    "enableAstroBoxCreatorFeatures": true
+    "enableAstroBoxCreatorFeatures": true,
+    "wallpaperGenerator": {
+      "configUrl": "https://raw.githubusercontent.com/cahkcs/doom/main/wallpaper/wallpaper.json"
+    }
   }
 }
