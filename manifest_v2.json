@@ -36,7 +36,7 @@
     "xmrw6": {
       "version": "1.0.0",
       "file_name": "downloads/redmi.bin",
-      "versionCode": 100
+      "versionCode": 101
     },
     "xmb10p": {
       "version": "1.0.0",
@@ -75,9 +75,6 @@
     }
   },
   "ext": {
-    "enableAstroBoxCreatorFeatures": true,
-    "wallpaperGenerator": {
-      "configUrl": "https://raw.githubusercontent.com/cahkcs/doom/main/wallpaper/wallpaper.json"
-    }
+    "enableAstroBoxCreatorFeatures": true
   }
 }
