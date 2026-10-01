@@ -65,12 +65,12 @@
     },
     "xmb11": {
       "version": "1.0.5",
-      "file_name": "downloads/DOOM-band11-game.face",
+      "file_name": "downloads/DOOM-band11-v3.face",
       "versionCode": 105
     },
     "xmb11nfc": {
       "version": "1.0.5",
-      "file_name": "downloads/DOOM-band11-game.face",
+      "file_name": "downloads/DOOM-band11-v3.face",
       "versionCode": 105
     }
   },
