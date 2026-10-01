@@ -35,17 +35,17 @@
   "downloads": {
     "xmrw6": {
       "version": "1.0.0",
-      "file_name": "downloads/resource.bin",
+      "file_name": "downloads/tonyon.bin",
       "versionCode": 101
     },
     "xmb10p": {
       "version": "1.0.0",
-      "file_name": "downloads/resource.bin",
+      "file_name": "downloads/tonyon.bin",
       "versionCode": 100
     },
     "xmb9p": {
       "version": "1.0.0",
-      "file_name": "downloads/resource.bin",
+      "file_name": "downloads/tonyon.bin",
       "versionCode": 100
     },
     "xmb10": {
@@ -62,6 +62,16 @@
       "version": "1.0.2",
       "file_name": "downloads/doom_mili.bin",
       "versionCode": 103
+    },
+    "xmb11": {
+      "version": "1.0.5",
+      "file_name": "downloads/DOOM-band11-game.face",
+      "versionCode": 105
+    },
+    "xmb11nfc": {
+      "version": "1.0.5",
+      "file_name": "downloads/DOOM-band11-game.face",
+      "versionCode": 105
     }
   },
   "ext": {}
