@@ -3,7 +3,7 @@
     "id": "979817235470",
     "restype": "watchface",
     "name": "DOOM",
-    "description": "“万物皆可运行 DOOM，手环也不能放过。\n不是播片也不是伪 3D，用真 3D 射线算法手搓出来的，支持小米手环/手表。\n\n横着握手环玩，手感特意调过：\n\n屏幕随便点哪里都是开枪，不用非得戳某个小圆点\n打中了准星会直接闪红，手环跟着震一下，反馈很明显\n可以开手势/陀螺仪，手腕稍微一扭就能转视角\n手枪、霰弹枪、机枪都有，捡了子弹每把枪各算各的\n死了会自动读取本关开头的档，不用每次死都从第一关重新受罪\n平时摸鱼随时掏出来来一局，通关自动保存，完全不耽误事。”\n\n本人已经测试过多轮基本没有出现手表重启问题(我自己测试下来就没有遇到过，测试设备都是nfc版本，米粒有独立的优化)，已经优化到极致了，如果真的出现出现重启表盘也不会直接进入射击页面导致性能暴涨，陷入重复重启的问题而导致变砖(不可能出现)，但是lua表盘游戏稳定性确实差一些。",
+    "description": "“万物皆可运行 DOOM，手环也不能放过。\n不是播片也不是伪 3D，用真 3D 射线算法手搓出来的，支持小米手环/手表。\n\n横着握手环玩，手感特意调过：\n\n屏幕随便点哪里都是开枪，不用非得戳某个小圆点\n打中了准星会直接闪红，手环跟着震一下，反馈很明显\n可以开手势/陀螺仪，手腕稍微一扭就能转视角\n手枪、霰弹枪、机枪都有，捡了子弹每把枪各算各的\n死了会自动读取本关开头的档，不用每次死都从第一关重新受罪\n平时摸鱼随时掏出来来一局，通关自动保存，完全不耽误事。”\n\n本人已经测试过多轮基本没有出现手表重启问题(我自己测试下来就没有遇到过，测试设备都是nfc版本，米粒有独立的优化)，已经优化到极致了，如果真的出现出现重启表盘也不会直接进入射击页面导致性能暴涨，陷入重复重启的问题而导致变砖(不可能出现)，但是lua表盘游戏稳定性确实差一些。\n10/6更新日志:\n1.在通道和出口标记文字显示\n2.修复米环9预览图乱码问题\n3.米环版深度适配\n4.地图结构优化，增加迷雾天气\n5.墙体跟障碍物颜色区分",
     "preview": [
       "media/lua-2026-09-23-10-22-57.png",
       "media/lua-2026-09-23-10-24-31.png",
@@ -24,54 +24,102 @@
     {
       "title": "官网",
       "url": "https://mi.steam.cab/",
-      "icon": "FacebookLogo"
+      "icon": "facebook-logo"
     },
     {
-      "title": "爱发电",
+      "title": "爱发电[购买]",
       "url": "https://ifdian.net/item/b3021174b8eb11f1973f5254001e7c00",
-      "icon": "ArrowLineDown"
+      "icon": "arrow-line-down"
     }
   ],
   "downloads": {
     "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/tonyon.bin",
-      "versionCode": 101
+      "version": "1.1.0",
+      "file_name": "downloads/DOOM-band10pro.face",
+      "versionCode": 65792,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.在通道和出口标记文字显示\n2.修复米环9预览图乱码问题\n3.米环版深度适配\n4.地图结构优化，增加迷雾天气\n5.墙体跟障碍物颜色区分"
+        }
+      ]
     },
     "xmb10p": {
-      "version": "1.0.0",
-      "file_name": "downloads/tonyon.bin",
-      "versionCode": 100
+      "version": "1.1.0",
+      "file_name": "downloads/DOOM-band10pro.face",
+      "versionCode": 65792,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.在通道和出口标记文字显示\n2.修复米环9预览图乱码问题\n3.米环版深度适配\n4.地图结构优化，增加迷雾天气\n5.墙体跟障碍物颜色区分"
+        }
+      ]
     },
     "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "downloads/tonyon.bin",
-      "versionCode": 100
+      "version": "1.1.0",
+      "file_name": "downloads/DOOM-band10pro.face",
+      "versionCode": 65792,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.在通道和出口标记文字显示\n2.修复米环9预览图乱码问题\n3.米环版深度适配\n4.地图结构优化，增加迷雾天气\n5.墙体跟障碍物颜色区分"
+        }
+      ]
     },
     "xmb10": {
-      "version": "1.0.2",
-      "file_name": "downloads/doom_mili.bin",
-      "versionCode": 103
+      "version": "1.1.0",
+      "file_name": "downloads/DOOM-band10.face",
+      "versionCode": 65792,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.在通道和出口标记文字显示\n2.修复米环9预览图乱码问题\n3.米环版深度适配\n4.地图结构优化，增加迷雾天气\n5.墙体跟障碍物颜色区分"
+        }
+      ]
     },
     "xmb10nfc": {
-      "version": "1.0.2",
-      "file_name": "downloads/doom_mili.bin",
-      "versionCode": 103
+      "version": "1.1.0",
+      "file_name": "downloads/DOOM-band10.face",
+      "versionCode": 65792,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.在通道和出口标记文字显示\n2.修复米环9预览图乱码问题\n3.米环版深度适配\n4.地图结构优化，增加迷雾天气\n5.墙体跟障碍物颜色区分"
+        }
+      ]
     },
     "xmb9": {
-      "version": "1.0.2",
-      "file_name": "downloads/doom_mili.bin",
-      "versionCode": 103
+      "version": "1.1.0",
+      "file_name": "downloads/DOOM.face",
+      "versionCode": 65792,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.在通道和出口标记文字显示\n2.修复米环9预览图乱码问题\n3.米环版深度适配\n4.地图结构优化，增加迷雾天气\n5.墙体跟障碍物颜色区分"
+        }
+      ]
     },
     "xmb11": {
-      "version": "1.0.5",
+      "version": "1.1.0",
       "file_name": "downloads/DOOM-band11-v3.face",
-      "versionCode": 105
+      "versionCode": 65792,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.在通道和出口标记文字显示\n2.修复米环9预览图乱码问题\n3.米环版深度适配\n4.地图结构优化，增加迷雾天气\n5.墙体跟障碍物颜色区分"
+        }
+      ]
     },
     "xmb11nfc": {
-      "version": "1.0.5",
+      "version": "1.1.0",
       "file_name": "downloads/DOOM-band11-v3.face",
-      "versionCode": 105
+      "versionCode": 65792,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.在通道和出口标记文字显示\n2.修复米环9预览图乱码问题\n3.米环版深度适配\n4.地图结构优化，增加迷雾天气\n5.墙体跟障碍物颜色区分"
+        }
+      ]
     }
   },
   "ext": {}
