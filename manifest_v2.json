@@ -34,9 +34,9 @@
   ],
   "downloads": {
     "xmrw6": {
-      "version": "1.1.0",
+      "version": "1.1.1",
       "file_name": "downloads/DOOM-band10pro.face",
-      "versionCode": 65792,
+      "versionCode": 65793,
       "updatelogs": [
         {
           "version": "1.1.0",
@@ -45,9 +45,9 @@
       ]
     },
     "xmb10p": {
-      "version": "1.1.0",
+      "version": "1.1.1",
       "file_name": "downloads/DOOM-band10pro.face",
-      "versionCode": 65792,
+      "versionCode": 65793,
       "updatelogs": [
         {
           "version": "1.1.0",
@@ -56,9 +56,9 @@
       ]
     },
     "xmb9p": {
-      "version": "1.1.0",
+      "version": "1.1.1",
       "file_name": "downloads/DOOM-band10pro.face",
-      "versionCode": 65792,
+      "versionCode": 65793,
       "updatelogs": [
         {
           "version": "1.1.0",
@@ -67,9 +67,9 @@
       ]
     },
     "xmb10": {
-      "version": "1.1.0",
+      "version": "1.1.1",
       "file_name": "downloads/DOOM-band10.face",
-      "versionCode": 65792,
+      "versionCode": 65793,
       "updatelogs": [
         {
           "version": "1.1.0",
@@ -78,9 +78,9 @@
       ]
     },
     "xmb10nfc": {
-      "version": "1.1.0",
+      "version": "1.1.1",
       "file_name": "downloads/DOOM-band10.face",
-      "versionCode": 65792,
+      "versionCode": 65793,
       "updatelogs": [
         {
           "version": "1.1.0",
@@ -89,9 +89,9 @@
       ]
     },
     "xmb9": {
-      "version": "1.1.0",
+      "version": "1.1.1",
       "file_name": "downloads/DOOM.face",
-      "versionCode": 65792,
+      "versionCode": 65793,
       "updatelogs": [
         {
           "version": "1.1.0",
@@ -100,9 +100,9 @@
       ]
     },
     "xmb11": {
-      "version": "1.1.0",
-      "file_name": "downloads/DOOM-band11-v3.face",
-      "versionCode": 65792,
+      "version": "1.1.1",
+      "file_name": "downloads/DOOM-band11-slim.face",
+      "versionCode": 65793,
       "updatelogs": [
         {
           "version": "1.1.0",
@@ -111,9 +111,9 @@
       ]
     },
     "xmb11nfc": {
-      "version": "1.1.0",
-      "file_name": "downloads/DOOM-band11-v3.face",
-      "versionCode": 65792,
+      "version": "1.1.1",
+      "file_name": "downloads/DOOM-band11-slim.face",
+      "versionCode": 65793,
       "updatelogs": [
         {
           "version": "1.1.0",
