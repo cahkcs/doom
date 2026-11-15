@@ -9,7 +9,9 @@
       "media/lua-2026-09-23-10-24-31.png",
       "media/lua-2026-09-23-10-25-33.png",
       "media/official_render_gameplay_capsule_212x520_portrait.png",
-      "media/official_render_menu_capsule_212x520_portrait.png"
+      "media/official_render_menu_capsule_212x520_portrait.png",
+      "media/d96d727a52b39620384e3312a0a695bcb3328a3a394fc2e94145ce9f323cc654.png",
+      "media/e498e4f11aa766c99469fb69f75b2b736bd892fddb97b7ecfdd11de944efacb6.png"
     ],
     "icon": "media/doom_app_icon_192x192.png",
     "cover": "media/DOOM_Cover_Official_3DWrist.jpg",
@@ -34,10 +36,14 @@
   ],
   "downloads": {
     "xmrw6": {
-      "version": "1.1.5",
+      "version": "1.2.0",
       "file_name": "downloads/DOOM-redmiwatch6.face",
-      "versionCode": 65797,
+      "versionCode": 66048,
       "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "大更新！\n增加爆破模式，增加新武器AWM，增加3张大地图(带贴图)"
+        },
         {
           "version": "1.1.5",
           "content": "大更新！\n新增加系统手势屏蔽,菜单页面支持长按切换表盘\n增加摇杆移动，屏幕视角移动改成触摸移动,陀螺仪支持反转,UI优化,性能优化"
@@ -53,10 +59,14 @@
       ]
     },
     "xmb10p": {
-      "version": "1.1.5",
-      "file_name": "downloads/DOOM-band10pro.face",
-      "versionCode": 65797,
+      "version": "1.2.0",
+      "file_name": "downloads/DOOM-band10pro-modes.face",
+      "versionCode": 66048,
       "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "大更新！\n增加爆破模式，增加新武器AWM，增加3张大地图(带贴图)"
+        },
         {
           "version": "1.1.5",
           "content": "大更新！\n新增加系统手势屏蔽,菜单页面支持长按切换表盘\n增加摇杆移动，屏幕视角移动改成触摸移动,陀螺仪支持反转,UI优化,性能优化"
@@ -72,10 +82,14 @@
       ]
     },
     "xmb9p": {
-      "version": "1.1.5",
-      "file_name": "downloads/DOOM-band10pro.face",
-      "versionCode": 65797,
+      "version": "1.2.0",
+      "file_name": "downloads/DOOM-band10pro-modes.face",
+      "versionCode": 66048,
       "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "大更新！\n增加爆破模式，增加新武器AWM，增加3张大地图(带贴图)"
+        },
         {
           "version": "1.1.5",
           "content": "大更新！\n新增加系统手势屏蔽,菜单页面支持长按切换表盘\n增加摇杆移动，屏幕视角移动改成触摸移动,陀螺仪支持反转,UI优化,性能优化"
@@ -91,10 +105,14 @@
       ]
     },
     "xmb10": {
-      "version": "1.1.5",
-      "file_name": "downloads/DOOM-band10-v1.2.9-bc.face",
-      "versionCode": 65797,
+      "version": "1.2.0",
+      "file_name": "downloads/DOOM-band10.face",
+      "versionCode": 66048,
       "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "大更新！\n增加爆破模式，增加新武器AWM，增加3张大地图(带贴图)"
+        },
         {
           "version": "1.1.5",
           "content": "大更新！\n新增加系统手势屏蔽,菜单页面支持长按切换表盘\n增加摇杆移动，屏幕视角移动改成触摸移动,陀螺仪支持反转,UI优化,性能优化"
@@ -110,10 +128,14 @@
       ]
     },
     "xmb10nfc": {
-      "version": "1.1.5",
-      "file_name": "downloads/DOOM-band10-v1.2.9-bc.face",
-      "versionCode": 65797,
+      "version": "1.2.0",
+      "file_name": "downloads/DOOM-band10.face",
+      "versionCode": 66048,
       "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "大更新！\n增加爆破模式，增加新武器AWM，增加3张大地图(带贴图)"
+        },
         {
           "version": "1.1.5",
           "content": "大更新！\n新增加系统手势屏蔽,菜单页面支持长按切换表盘\n增加摇杆移动，屏幕视角移动改成触摸移动,陀螺仪支持反转,UI优化,性能优化"
@@ -129,10 +151,14 @@
       ]
     },
     "xmb9": {
-      "version": "1.1.5",
+      "version": "1.1.6",
       "file_name": "downloads/DOOM-band9.face",
-      "versionCode": 65797,
+      "versionCode": 65798,
       "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "大更新！\n增加爆破模式，增加新武器AWM，增加3张大地图(带贴图)"
+        },
         {
           "version": "1.1.5",
           "content": "大更新！\n新增加系统手势屏蔽,菜单页面支持长按切换表盘\n增加摇杆移动，屏幕视角移动改成触摸移动,陀螺仪支持反转,UI优化,性能优化"
@@ -148,10 +174,14 @@
       ]
     },
     "xmb11": {
-      "version": "1.1.5",
+      "version": "1.2.0",
       "file_name": "downloads/DOOM-band11.face",
-      "versionCode": 65797,
+      "versionCode": 66048,
       "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "大更新！\n增加爆破模式，增加新武器AWM，增加3张大地图(带贴图)"
+        },
         {
           "version": "1.1.5",
           "content": "大更新！\n新增加系统手势屏蔽,菜单页面支持长按切换表盘\n增加摇杆移动，屏幕视角移动改成触摸移动,陀螺仪支持反转,UI优化,性能优化"
@@ -167,10 +197,14 @@
       ]
     },
     "xmb11nfc": {
-      "version": "1.1.5",
+      "version": "1.2.0",
       "file_name": "downloads/DOOM-band11.face",
-      "versionCode": 65797,
+      "versionCode": 66048,
       "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "大更新！\n增加爆破模式，增加新武器AWM，增加3张大地图(带贴图)"
+        },
         {
           "version": "1.1.5",
           "content": "大更新！\n新增加系统手势屏蔽,菜单页面支持长按切换表盘\n增加摇杆移动，屏幕视角移动改成触摸移动,陀螺仪支持反转,UI优化,性能优化"
@@ -186,35 +220,145 @@
       ]
     },
     "xmws3": {
-      "version": "0.0.1",
+      "version": "1.1.0",
       "file_name": "downloads/DOOM-watchs4.face",
-      "versionCode": 1
+      "versionCode": 65792,
+      "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "大更新！\n增加爆破模式，增加新武器AWM，增加3张大地图(带贴图)"
+        },
+        {
+          "version": "1.1.5",
+          "content": "大更新！\n新增加系统手势屏蔽,菜单页面支持长按切换表盘\n增加摇杆移动，屏幕视角移动改成触摸移动,陀螺仪支持反转,UI优化,性能优化"
+        },
+        {
+          "version": "1.1.4",
+          "content": "新增：设置页\n\n菜单新增「设置」键，点开是居中弹窗\n三档手感可调：转向灵敏 / 陀螺仪灵敏（范围 50–200%，步进 10%，默认 100%）\n陀螺仪开关也搬进弹窗（开关按百分比列对齐）\n每次调整立即保存，重启/重装后依然生效\n调到上下限时，对应的 −/+ 键变琥珀色提示已到边界\n加减键带放大点击区，手环上不易点空"
+        },
+        {
+          "version": "1.1.0",
+          "content": "1.在通道和出口标记文字显示\n2.修复米环9预览图乱码问题\n3.米环版深度适配\n4.地图结构优化，增加迷雾天气\n5.墙体跟障碍物颜色区分"
+        }
+      ]
     },
     "xmws4xring": {
-      "version": "0.0.1",
+      "version": "1.1.0",
       "file_name": "downloads/DOOM-watchs4.face",
-      "versionCode": 1
+      "versionCode": 65792,
+      "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "大更新！\n增加爆破模式，增加新武器AWM，增加3张大地图(带贴图)"
+        },
+        {
+          "version": "1.1.5",
+          "content": "大更新！\n新增加系统手势屏蔽,菜单页面支持长按切换表盘\n增加摇杆移动，屏幕视角移动改成触摸移动,陀螺仪支持反转,UI优化,性能优化"
+        },
+        {
+          "version": "1.1.4",
+          "content": "新增：设置页\n\n菜单新增「设置」键，点开是居中弹窗\n三档手感可调：转向灵敏 / 陀螺仪灵敏（范围 50–200%，步进 10%，默认 100%）\n陀螺仪开关也搬进弹窗（开关按百分比列对齐）\n每次调整立即保存，重启/重装后依然生效\n调到上下限时，对应的 −/+ 键变琥珀色提示已到边界\n加减键带放大点击区，手环上不易点空"
+        },
+        {
+          "version": "1.1.0",
+          "content": "1.在通道和出口标记文字显示\n2.修复米环9预览图乱码问题\n3.米环版深度适配\n4.地图结构优化，增加迷雾天气\n5.墙体跟障碍物颜色区分"
+        }
+      ]
     },
     "xmws441": {
-      "version": "0.0.1",
+      "version": "1.1.0",
       "file_name": "downloads/DOOM-watchs4.face",
-      "versionCode": 1
+      "versionCode": 65792,
+      "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "大更新！\n增加爆破模式，增加新武器AWM，增加3张大地图(带贴图)"
+        },
+        {
+          "version": "1.1.5",
+          "content": "大更新！\n新增加系统手势屏蔽,菜单页面支持长按切换表盘\n增加摇杆移动，屏幕视角移动改成触摸移动,陀螺仪支持反转,UI优化,性能优化"
+        },
+        {
+          "version": "1.1.4",
+          "content": "新增：设置页\n\n菜单新增「设置」键，点开是居中弹窗\n三档手感可调：转向灵敏 / 陀螺仪灵敏（范围 50–200%，步进 10%，默认 100%）\n陀螺仪开关也搬进弹窗（开关按百分比列对齐）\n每次调整立即保存，重启/重装后依然生效\n调到上下限时，对应的 −/+ 键变琥珀色提示已到边界\n加减键带放大点击区，手环上不易点空"
+        },
+        {
+          "version": "1.1.0",
+          "content": "1.在通道和出口标记文字显示\n2.修复米环9预览图乱码问题\n3.米环版深度适配\n4.地图结构优化，增加迷雾天气\n5.墙体跟障碍物颜色区分"
+        }
+      ]
     },
     "xmws541": {
-      "version": "0.0.1",
+      "version": "1.1.0",
       "file_name": "downloads/DOOM-watchs4.face",
-      "versionCode": 1
+      "versionCode": 65792,
+      "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "大更新！\n增加爆破模式，增加新武器AWM，增加3张大地图(带贴图)"
+        },
+        {
+          "version": "1.1.5",
+          "content": "大更新！\n新增加系统手势屏蔽,菜单页面支持长按切换表盘\n增加摇杆移动，屏幕视角移动改成触摸移动,陀螺仪支持反转,UI优化,性能优化"
+        },
+        {
+          "version": "1.1.4",
+          "content": "新增：设置页\n\n菜单新增「设置」键，点开是居中弹窗\n三档手感可调：转向灵敏 / 陀螺仪灵敏（范围 50–200%，步进 10%，默认 100%）\n陀螺仪开关也搬进弹窗（开关按百分比列对齐）\n每次调整立即保存，重启/重装后依然生效\n调到上下限时，对应的 −/+ 键变琥珀色提示已到边界\n加减键带放大点击区，手环上不易点空"
+        },
+        {
+          "version": "1.1.0",
+          "content": "1.在通道和出口标记文字显示\n2.修复米环9预览图乱码问题\n3.米环版深度适配\n4.地图结构优化，增加迷雾天气\n5.墙体跟障碍物颜色区分"
+        }
+      ]
     },
     "xmws4": {
-      "version": "0.0.1",
+      "version": "1.1.0",
       "file_name": "downloads/DOOM-watchs4.face",
-      "versionCode": 1
+      "versionCode": 65792,
+      "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "大更新！\n增加爆破模式，增加新武器AWM，增加3张大地图(带贴图)"
+        },
+        {
+          "version": "1.1.5",
+          "content": "大更新！\n新增加系统手势屏蔽,菜单页面支持长按切换表盘\n增加摇杆移动，屏幕视角移动改成触摸移动,陀螺仪支持反转,UI优化,性能优化"
+        },
+        {
+          "version": "1.1.4",
+          "content": "新增：设置页\n\n菜单新增「设置」键，点开是居中弹窗\n三档手感可调：转向灵敏 / 陀螺仪灵敏（范围 50–200%，步进 10%，默认 100%）\n陀螺仪开关也搬进弹窗（开关按百分比列对齐）\n每次调整立即保存，重启/重装后依然生效\n调到上下限时，对应的 −/+ 键变琥珀色提示已到边界\n加减键带放大点击区，手环上不易点空"
+        },
+        {
+          "version": "1.1.0",
+          "content": "1.在通道和出口标记文字显示\n2.修复米环9预览图乱码问题\n3.米环版深度适配\n4.地图结构优化，增加迷雾天气\n5.墙体跟障碍物颜色区分"
+        }
+      ]
     },
     "xmws5": {
-      "version": "0.0.1",
+      "version": "1.1.0",
       "file_name": "downloads/DOOM-watchs4.face",
-      "versionCode": 1
+      "versionCode": 65792,
+      "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "大更新！\n增加爆破模式，增加新武器AWM，增加3张大地图(带贴图)"
+        },
+        {
+          "version": "1.1.5",
+          "content": "大更新！\n新增加系统手势屏蔽,菜单页面支持长按切换表盘\n增加摇杆移动，屏幕视角移动改成触摸移动,陀螺仪支持反转,UI优化,性能优化"
+        },
+        {
+          "version": "1.1.4",
+          "content": "新增：设置页\n\n菜单新增「设置」键，点开是居中弹窗\n三档手感可调：转向灵敏 / 陀螺仪灵敏（范围 50–200%，步进 10%，默认 100%）\n陀螺仪开关也搬进弹窗（开关按百分比列对齐）\n每次调整立即保存，重启/重装后依然生效\n调到上下限时，对应的 −/+ 键变琥珀色提示已到边界\n加减键带放大点击区，手环上不易点空"
+        },
+        {
+          "version": "1.1.0",
+          "content": "1.在通道和出口标记文字显示\n2.修复米环9预览图乱码问题\n3.米环版深度适配\n4.地图结构优化，增加迷雾天气\n5.墙体跟障碍物颜色区分"
+        }
+      ]
     }
   },
-  "ext": {}
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
 }
