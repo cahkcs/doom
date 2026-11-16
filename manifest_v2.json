@@ -36,9 +36,9 @@
   ],
   "downloads": {
     "xmrw6": {
-      "version": "1.2.0",
+      "version": "0.0.1",
       "file_name": "downloads/DOOM-redmiwatch6.face",
-      "versionCode": 66048,
+      "versionCode": 1,
       "updatelogs": [
         {
           "version": "1.2.0",
@@ -59,9 +59,9 @@
       ]
     },
     "xmb10p": {
-      "version": "1.2.0",
+      "version": "0.0.1",
       "file_name": "downloads/DOOM-band10pro-modes.face",
-      "versionCode": 66048,
+      "versionCode": 1,
       "updatelogs": [
         {
           "version": "1.2.0",
@@ -82,9 +82,9 @@
       ]
     },
     "xmb9p": {
-      "version": "1.2.0",
+      "version": "0.0.1",
       "file_name": "downloads/DOOM-band10pro-modes.face",
-      "versionCode": 66048,
+      "versionCode": 1,
       "updatelogs": [
         {
           "version": "1.2.0",
@@ -105,9 +105,9 @@
       ]
     },
     "xmb10": {
-      "version": "1.2.0",
+      "version": "0.0.1",
       "file_name": "downloads/DOOM-band10.face",
-      "versionCode": 66048,
+      "versionCode": 1,
       "updatelogs": [
         {
           "version": "1.2.0",
@@ -128,9 +128,9 @@
       ]
     },
     "xmb10nfc": {
-      "version": "1.2.0",
+      "version": "0.0.1",
       "file_name": "downloads/DOOM-band10.face",
-      "versionCode": 66048,
+      "versionCode": 1,
       "updatelogs": [
         {
           "version": "1.2.0",
@@ -151,9 +151,9 @@
       ]
     },
     "xmb9": {
-      "version": "1.1.6",
+      "version": "1.1.5",
       "file_name": "downloads/DOOM-band9.face",
-      "versionCode": 65798,
+      "versionCode": 65797,
       "updatelogs": [
         {
           "version": "1.2.0",
@@ -174,9 +174,9 @@
       ]
     },
     "xmb11": {
-      "version": "1.2.0",
+      "version": "0.0.8",
       "file_name": "downloads/DOOM-band11.face",
-      "versionCode": 66048,
+      "versionCode": 8,
       "updatelogs": [
         {
           "version": "1.2.0",
@@ -197,9 +197,9 @@
       ]
     },
     "xmb11nfc": {
-      "version": "1.2.0",
+      "version": "0.0.8",
       "file_name": "downloads/DOOM-band11.face",
-      "versionCode": 66048,
+      "versionCode": 8,
       "updatelogs": [
         {
           "version": "1.2.0",
@@ -220,9 +220,9 @@
       ]
     },
     "xmws3": {
-      "version": "1.1.0",
+      "version": "0.0.1",
       "file_name": "downloads/DOOM-watchs4.face",
-      "versionCode": 65792,
+      "versionCode": 1,
       "updatelogs": [
         {
           "version": "1.2.0",
@@ -243,9 +243,9 @@
       ]
     },
     "xmws4xring": {
-      "version": "1.1.0",
+      "version": "0.0.1",
       "file_name": "downloads/DOOM-watchs4.face",
-      "versionCode": 65792,
+      "versionCode": 1,
       "updatelogs": [
         {
           "version": "1.2.0",
@@ -266,9 +266,9 @@
       ]
     },
     "xmws441": {
-      "version": "1.1.0",
+      "version": "0.0.1",
       "file_name": "downloads/DOOM-watchs4.face",
-      "versionCode": 65792,
+      "versionCode": 1,
       "updatelogs": [
         {
           "version": "1.2.0",
@@ -289,9 +289,9 @@
       ]
     },
     "xmws541": {
-      "version": "1.1.0",
+      "version": "0.0.1",
       "file_name": "downloads/DOOM-watchs4.face",
-      "versionCode": 65792,
+      "versionCode": 1,
       "updatelogs": [
         {
           "version": "1.2.0",
@@ -312,9 +312,9 @@
       ]
     },
     "xmws4": {
-      "version": "1.1.0",
+      "version": "0.0.1",
       "file_name": "downloads/DOOM-watchs4.face",
-      "versionCode": 65792,
+      "versionCode": 1,
       "updatelogs": [
         {
           "version": "1.2.0",
@@ -335,9 +335,9 @@
       ]
     },
     "xmws5": {
-      "version": "1.1.0",
+      "version": "0.0.1",
       "file_name": "downloads/DOOM-watchs4.face",
-      "versionCode": 65792,
+      "versionCode": 1,
       "updatelogs": [
         {
           "version": "1.2.0",
@@ -358,7 +358,5 @@
       ]
     }
   },
-  "ext": {
-    "enableAstroBoxCreatorFeatures": true
-  }
+  "ext": {}
 }
